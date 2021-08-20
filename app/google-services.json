@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651648336327",
+    "project_id": "notesapplication-23bd5",
+    "storage_bucket": "notesapplication-23bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651648336327:android:2cc2f043a661e3ea09d9e2",
+        "android_client_info": {
+          "package_name": "shashwat.com.notesapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651648336327-ul82men4psn5mo5o43l23fjaiadbjm01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBianoLrMjUvgDPQTOLWHOJop6QvR5WJBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651648336327-ul82men4psn5mo5o43l23fjaiadbjm01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
